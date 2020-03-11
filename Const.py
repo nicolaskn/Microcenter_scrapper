@@ -30,7 +30,6 @@ class Const(object):
 
     '''URLS'''
 
-    COMPUTER_CATEGORY_URL ="https://www.microcenter.com/search/search_results.aspx?storeID=065&Change+Store=Change+Store&N=4294964325&NTK=all&NR=&sku_list=&cat=Computers-:-MicroCenter"
     BASE_SEARCH_URL = "https://www.microcenter.com/search/search_results.aspx?storeID={}&Change+" \
                       "Store=Change+Store&N={}"
 
